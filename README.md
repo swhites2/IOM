@@ -1,3 +1,4 @@
 # IOM
-iraq displacement data pulled from iom.int
-two files for initial data review. July 2021 and June 2020
+iraq displacement data retrieved from iom.int
+
+includes two files for initial data review approx. one year apart to do some comparisions (July 2021 and June 2020)
